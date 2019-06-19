@@ -1,0 +1,5 @@
+com\jpacrud\BootApplication.class
+com\jpacrud\dao\StudentDAO.class
+com\jpacrud\respository\StudentRepository.class
+com\jpacrud\controller\StudentController.class
+com\jpacrud\entity\Student.class
